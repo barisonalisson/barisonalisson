@@ -3,7 +3,7 @@
 I'm [Alisson Barison]([https://martinheinz.dev/blog/113](https://github.com/barisonalisson)), a full-stack developer from Brazil, currently living in Dourados, a city in the state of Mato Grosso do Sul. 
 
 
-## Languages and Tools
+## Languages and Tools... 😀
 ![PHP#](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,7 +37,7 @@ I'm [Alisson Barison]([https://martinheinz.dev/blog/113](https://github.com/bari
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## I'm focusing on my studies. 🤓
+## I'm focusing on my studies... 🤓
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
