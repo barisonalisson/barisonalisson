@@ -42,4 +42,4 @@ I'm [Alisson Barison]([https://martinheinz.dev/blog/113](https://github.com/bari
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=PowerBI&logoColor=white)
